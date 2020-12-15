@@ -4,6 +4,7 @@
 let app = new Vue({
 el: '#root',
 data : {
-    message: "Hello",
+    message: "Hello, this is Roma",
+    imgSrc : "roma.jpg"
 }
 });
